@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-import Close from '../../assets/shared/icon-close.svg';
-import Open from '../../assets/shared/icon-hamburger.svg';
+import Close from '/assets/shared/icon-close.svg';
+import Open from '/assets/shared/icon-hamburger.svg';
 
 type ButtonType = {
   type: 'open' | 'close';

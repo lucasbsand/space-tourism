@@ -3,9 +3,9 @@ import { useState } from 'react';
 import { Background, PageHeader } from '../../styles/global';
 import * as S from './styled';
 
-import BgDesktop from '../../assets/crew/background-crew-desktop.jpg';
-import BgTablet from '../../assets/crew/background-crew-tablet.jpg';
-import BgMobile from '../../assets/crew/background-crew-mobile.jpg';
+import BgDesktop from '/assets/crew/background-crew-desktop.jpg';
+import BgTablet from '/assets/crew/background-crew-tablet.jpg';
+import BgMobile from '/assets/crew/background-crew-mobile.jpg';
 import data from '../../data.json';
 
 function Crew() {

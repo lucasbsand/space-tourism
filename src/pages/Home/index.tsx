@@ -1,9 +1,10 @@
 import { Background, Main } from '../../styles/global';
 import * as S from './styled';
 
-import BgDesktop from '../../assets/home/background-home-desktop.jpg';
-import BgTablet from '../../assets/home/background-home-tablet.jpg';
-import BgMobile from '../../assets/home/background-home-mobile.jpg';
+import BgDesktop from '/assets/home/background-home-desktop.jpg';
+import BgTablet from '/assets/home/background-home-tablet.jpg';
+import BgMobile from '/assets/home/background-home-mobile.jpg';
+
 import ExploreButton from '../../components/ExploreButton';
 
 function Home() {

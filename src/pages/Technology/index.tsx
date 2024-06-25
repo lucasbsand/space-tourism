@@ -3,9 +3,9 @@ import { useState } from 'react';
 import { Background } from '../../styles/global';
 import * as S from './styled';
 
-import BgDesktop from '../../assets/technology/background-technology-desktop.jpg';
-import BgTablet from '../../assets/technology/background-technology-tablet.jpg';
-import BgMobile from '../../assets/technology/background-technology-mobile.jpg';
+import BgDesktop from '/assets/technology/background-technology-desktop.jpg';
+import BgTablet from '/assets/technology/background-technology-tablet.jpg';
+import BgMobile from '/assets/technology/background-technology-mobile.jpg';
 
 import data from '../../data.json';
 

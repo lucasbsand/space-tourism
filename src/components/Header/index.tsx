@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import * as S from './styled';
 
-import Logo from '../../assets/shared/logo.svg';
+import Logo from '/assets/shared/logo.svg';
 
 import Navbar from '../Navbar';
 import ToggleButton from '../ToggleButton';
